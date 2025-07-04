@@ -1,10 +1,12 @@
+````markdown
 # 🌡️ Redes Neurais e Deep Learning: Conversão de Temperaturas
 
-````markdown
-## 🧠 Esse exemplo é interessante se você está começando com redes neurais e Deep Learning, pode ser difícil entender como um modelo realmente aprende.  
-Este projeto mostra que até mesmo uma tarefa simples, como converter Celsius em Fahrenheit, pode ser resolvida por uma rede neural — algo que normalmente resolveríamos com uma fórmula matemática.
+## 🧠 Por que esse exemplo é interessante?
 
-> A ideia é ver, de forma prática, como o modelo “descobre” a regra de conversão apenas analisando alguns exemplos!
+Esse exemplo é perfeito para quem está começando com redes neurais e Deep Learning.  
+Aqui, você vê que até mesmo uma tarefa simples, como converter Celsius em Fahrenheit, pode ser aprendida por um modelo de rede neural.
+
+> **A ideia é ver, na prática, como o modelo “descobre” a regra de conversão apenas analisando alguns exemplos!**
 
 ---
 
