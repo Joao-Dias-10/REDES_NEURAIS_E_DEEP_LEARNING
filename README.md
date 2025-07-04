@@ -1,6 +1,5 @@
-````markdown
 # 🌡️ Redes Neurais e Deep Learning: Conversão de Temperaturas
-````
+
 ## 🧠 Por que esse exemplo é interessante?
 
 Esse exemplo é perfeito para quem está começando com redes neurais e Deep Learning.  
